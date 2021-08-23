@@ -1,50 +1,50 @@
-/content/wav/BASIC5000_4951|若い 人 たち は 、 戦禍 と いう もの を 、 頭 で しか 知ら ない 。
-/content/wav/BASIC5000_4952|天皇 は 、 在位 中 は 、 今上 天皇 と 呼ぶ 。
-/content/wav/BASIC5000_4953|時 が たつ に つれ て 、 悲しみ は 薄らぐ 。
-/content/wav/BASIC5000_4954|私 は 冷静 で いよう と し た が 、 とうとう 堪忍 袋 の 緒 が 切れ た 。
-/content/wav/BASIC5000_4955|私 は 、 八百屋 の 外 で 彼 に 出会っ た 。
-/content/wav/BASIC5000_4956|私 に は 、 彼 の うそ が 見破れ なかっ た 。
-/content/wav/BASIC5000_4957|私 たち は 、 川下 に ある 橋 を 渡っ て 、 回り道 を し なけれ ば なら なかっ た 。
-/content/wav/BASIC5000_4958|私 たち は 、 岐阜 に 行っ た 。
-/content/wav/BASIC5000_4959|子孫 に きれい な 、 緑 の 地球 を 残し たい 。
-/content/wav/BASIC5000_4960|才子 多病 、 佳人 薄命 。
-/content/wav/BASIC5000_4961|今朝 起き て みる と 、 山 の 頂 が 、 雪 に おおわ れ て い た 。
-/content/wav/BASIC5000_4962|港 を 見下ろす 墓 に 、 墓碑 を 立て た 。
-/content/wav/BASIC5000_4963|この ところ 日照り 続き で 、 池 の 水 も 干る 可能 性 が で て き た 。
-/content/wav/BASIC5000_4964|喧嘩 を し て い た 二人 の 子供 は 、 お 互い に しかめっ面 を し て 座っ て い た 。
-/content/wav/BASIC5000_4965|君 の 言っ て いる こと は 机上 の 空論 に すぎ ない よ 。
-/content/wav/BASIC5000_4966|我々 の チーム は 、 強力 な ライバル と 競っ た 。
-/content/wav/BASIC5000_4967|雨 が 降る と 、 必ず 屋根 から 雨水 が 漏る 。
-/content/wav/BASIC5000_4968|一言 居士 。
-/content/wav/BASIC5000_4969|もっと 単刀 直入 に 言っ て くれ ない か な 、 隔靴 掻痒 の 感 なき に しも あら ず だ よ 。
-/content/wav/BASIC5000_4970|パーマ を かけ た の で 、 髪の毛 が 縮れ て い ます 。
-/content/wav/BASIC5000_4971|どこ で 邦貨 を ドル に 変え られる か 。
-/content/wav/BASIC5000_4972|とうとう 子供 たち は 山 の 真ん中 に 、 りんご の 木 が 植わっ て いる 、 小さな 果樹 園 を 見つけ まし た 。
-/content/wav/BASIC5000_4973|タバコ で 煙っ た 空気 を 部屋 から 出し て 、 新鮮 な 空気 を 入れ て ちょうだい 。
-/content/wav/BASIC5000_4974|それ が いつ だっ た か 、 日 を 繰っ て 確かめ た 。
-/content/wav/BASIC5000_4975|その 夜 我々 は 、 大 エビ に 舌鼓 を 打っ た 。
-/content/wav/BASIC5000_4976|その 新聞 は 、 彼 の 犯罪 へ の 掛かり合い を 主張 し た 。
-/content/wav/BASIC5000_4977|その 支払い は 、 ２ 年間 繰り延べ られる 。
-/content/wav/BASIC5000_4978|その 山 を 、 私 たち は 剣岳 と 呼ぶ 。
-/content/wav/BASIC5000_4979|その 国 で は 、 日本 製 品 を 排斥 する 運動 が 起こっ て い た 。
-/content/wav/BASIC5000_4980|その ボート は 、 波止場 に つなが れ て い た 。
-/content/wav/BASIC5000_4981|この 本 は 、 興味 津々 たる もの が あっ て 飽き ない 。
-/content/wav/BASIC5000_4982|この 川 に は 、 雑魚 が たくさん いる 。
-/content/wav/BASIC5000_4983|この スキャンダル で 、 一部 の 高官 が 、 罷免 さ れる 可能 性 が ある 。
-/content/wav/BASIC5000_4984|ここ へ 来る と 、 いつ も 心 が 休まり ます 。
-/content/wav/BASIC5000_4985|カレー の ルー は 、 非常 に 滋養 に 富ん で いる 。
-/content/wav/BASIC5000_4986|自分 用 の ベッド に 寝かさ れる 。
-/content/wav/BASIC5000_4987|あなた の 寄附 は 、 小児 病院 を 建設 する 補助 と し て 、 大いに 役立つ でしょう 。
-/content/wav/BASIC5000_4988|あいつ ら 酔い潰れ ちゃっ た 。
-/content/wav/BASIC5000_4989|小林 勇 は 、 幸せ だ 。
-/content/wav/BASIC5000_4990|意気 地 が 、 なかっ た ん だ 。
-/content/wav/BASIC5000_4991|最近 、 気分 が 萎え 気味 だ 。
-/content/wav/BASIC5000_4992|虚無 僧 が 托鉢 し て いる 様子 を 眺める 。
-/content/wav/BASIC5000_4993|慰安 旅行 を 、 明日 に 控える 。
-/content/wav/BASIC5000_4994|使っ て いく うち に 、 艶 が 出る 。
-/content/wav/BASIC5000_4995|弾劾 裁判 が ひらか れる 。
-/content/wav/BASIC5000_4996|扇型 の 、 弧 の 長 さ を 、 計算 で 求める 。
-/content/wav/BASIC5000_4997|その 王国 は 、 最後 の 王 に 嗣子 が おら ず 、 滅亡 し た 。
-/content/wav/BASIC5000_4998|村人 たち は 、 その 話 を 聞い て 、 震え上がっ た 。
-/content/wav/BASIC5000_4999|ドナー から 腎臓 の 提供 を 受ける 。
-/content/wav/BASIC5000_5000|あと ３０ 分 の 猶予 が 与え られ た 。
+/content/wav/BASIC5000_4951.wav|若い 人 たち は 、 戦禍 と いう もの を 、 頭 で しか 知ら ない 。
+/content/wav/BASIC5000_4952.wav|天皇 は 、 在位 中 は 、 今上 天皇 と 呼ぶ 。
+/content/wav/BASIC5000_4953.wav|時 が たつ に つれ て 、 悲しみ は 薄らぐ 。
+/content/wav/BASIC5000_4954.wav|私 は 冷静 で いよう と し た が 、 とうとう 堪忍 袋 の 緒 が 切れ た 。
+/content/wav/BASIC5000_4955.wav|私 は 、 八百屋 の 外 で 彼 に 出会っ た 。
+/content/wav/BASIC5000_4956.wav|私 に は 、 彼 の うそ が 見破れ なかっ た 。
+/content/wav/BASIC5000_4957.wav|私 たち は 、 川下 に ある 橋 を 渡っ て 、 回り道 を し なけれ ば なら なかっ た 。
+/content/wav/BASIC5000_4958.wav|私 たち は 、 岐阜 に 行っ た 。
+/content/wav/BASIC5000_4959.wav|子孫 に きれい な 、 緑 の 地球 を 残し たい 。
+/content/wav/BASIC5000_4960.wav|才子 多病 、 佳人 薄命 。
+/content/wav/BASIC5000_4961.wav|今朝 起き て みる と 、 山 の 頂 が 、 雪 に おおわ れ て い た 。
+/content/wav/BASIC5000_4962.wav|港 を 見下ろす 墓 に 、 墓碑 を 立て た 。
+/content/wav/BASIC5000_4963.wav|この ところ 日照り 続き で 、 池 の 水 も 干る 可能 性 が で て き た 。
+/content/wav/BASIC5000_4964.wav|喧嘩 を し て い た 二人 の 子供 は 、 お 互い に しかめっ面 を し て 座っ て い た 。
+/content/wav/BASIC5000_4965.wav|君 の 言っ て いる こと は 机上 の 空論 に すぎ ない よ 。
+/content/wav/BASIC5000_4966.wav|我々 の チーム は 、 強力 な ライバル と 競っ た 。
+/content/wav/BASIC5000_4967.wav|雨 が 降る と 、 必ず 屋根 から 雨水 が 漏る 。
+/content/wav/BASIC5000_4968.wav|一言 居士 。
+/content/wav/BASIC5000_4969.wav|もっと 単刀 直入 に 言っ て くれ ない か な 、 隔靴 掻痒 の 感 なき に しも あら ず だ よ 。
+/content/wav/BASIC5000_4970.wav|パーマ を かけ た の で 、 髪の毛 が 縮れ て い ます 。
+/content/wav/BASIC5000_4971.wav|どこ で 邦貨 を ドル に 変え られる か 。
+/content/wav/BASIC5000_4972.wav|とうとう 子供 たち は 山 の 真ん中 に 、 りんご の 木 が 植わっ て いる 、 小さな 果樹 園 を 見つけ まし た 。
+/content/wav/BASIC5000_4973.wav|タバコ で 煙っ た 空気 を 部屋 から 出し て 、 新鮮 な 空気 を 入れ て ちょうだい 。
+/content/wav/BASIC5000_4974.wav|それ が いつ だっ た か 、 日 を 繰っ て 確かめ た 。
+/content/wav/BASIC5000_4975.wav|その 夜 我々 は 、 大 エビ に 舌鼓 を 打っ た 。
+/content/wav/BASIC5000_4976.wav|その 新聞 は 、 彼 の 犯罪 へ の 掛かり合い を 主張 し た 。
+/content/wav/BASIC5000_4977.wav|その 支払い は 、 ２ 年間 繰り延べ られる 。
+/content/wav/BASIC5000_4978.wav|その 山 を 、 私 たち は 剣岳 と 呼ぶ 。
+/content/wav/BASIC5000_4979.wav|その 国 で は 、 日本 製 品 を 排斥 する 運動 が 起こっ て い た 。
+/content/wav/BASIC5000_4980.wav|その ボート は 、 波止場 に つなが れ て い た 。
+/content/wav/BASIC5000_4981.wav|この 本 は 、 興味 津々 たる もの が あっ て 飽き ない 。
+/content/wav/BASIC5000_4982.wav|この 川 に は 、 雑魚 が たくさん いる 。
+/content/wav/BASIC5000_4983.wav|この スキャンダル で 、 一部 の 高官 が 、 罷免 さ れる 可能 性 が ある 。
+/content/wav/BASIC5000_4984.wav|ここ へ 来る と 、 いつ も 心 が 休まり ます 。
+/content/wav/BASIC5000_4985.wav|カレー の ルー は 、 非常 に 滋養 に 富ん で いる 。
+/content/wav/BASIC5000_4986.wav|自分 用 の ベッド に 寝かさ れる 。
+/content/wav/BASIC5000_4987.wav|あなた の 寄附 は 、 小児 病院 を 建設 する 補助 と し て 、 大いに 役立つ でしょう 。
+/content/wav/BASIC5000_4988.wav|あいつ ら 酔い潰れ ちゃっ た 。
+/content/wav/BASIC5000_4989.wav|小林 勇 は 、 幸せ だ 。
+/content/wav/BASIC5000_4990.wav|意気 地 が 、 なかっ た ん だ 。
+/content/wav/BASIC5000_4991.wav|最近 、 気分 が 萎え 気味 だ 。
+/content/wav/BASIC5000_4992.wav|虚無 僧 が 托鉢 し て いる 様子 を 眺める 。
+/content/wav/BASIC5000_4993.wav|慰安 旅行 を 、 明日 に 控える 。
+/content/wav/BASIC5000_4994.wav|使っ て いく うち に 、 艶 が 出る 。
+/content/wav/BASIC5000_4995.wav|弾劾 裁判 が ひらか れる 。
+/content/wav/BASIC5000_4996.wav|扇型 の 、 弧 の 長 さ を 、 計算 で 求める 。
+/content/wav/BASIC5000_4997.wav|その 王国 は 、 最後 の 王 に 嗣子 が おら ず 、 滅亡 し た 。
+/content/wav/BASIC5000_4998.wav|村人 たち は 、 その 話 を 聞い て 、 震え上がっ た 。
+/content/wav/BASIC5000_4999.wav|ドナー から 腎臓 の 提供 を 受ける 。
+/content/wav/BASIC5000_5000.wav|あと ３０ 分 の 猶予 が 与え られ た 。
